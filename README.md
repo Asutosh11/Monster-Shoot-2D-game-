@@ -9,7 +9,6 @@ Enjoy.
 
 ![alt tag](https://raw.githubusercontent.com/Asutosh11/Monster-Shoot-2D-game-/master/screen.png)
 
-<br>
 
 <b>license</b> <br>
 
