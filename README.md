@@ -1,9 +1,14 @@
+ This is a simple 2D browser game. You aim the monster to shoot using mouse.
 
-Monster-Shoot-2D-game-
-======================
-
-This is a simple 2D browser game. You can grab this to improve and experiment.
-Enjoy.
+<br>
+<b>This app uses</b>
+<br>
+1. HTML.
+<br>
+2. CSS
+<br>
+3. Javascript
+<br><br>
 
 <b>Screenshot</b> <br>
 
